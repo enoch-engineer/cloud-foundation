@@ -8,10 +8,12 @@
 - Restarted the computer to complete installation
 - Launched Ubuntu for the first time
 - Created my Linux username and password
+- Used linux commands
 
 ## Why This Matters
 This is the foundation of my cloud engineering environment.  
 All future Linux, Docker, Terraform, and AWS work will be done here.
+
 
 ## Commands I Used
 - `wsl --install -d Ubuntu`
@@ -20,6 +22,7 @@ All future Linux, Docker, Terraform, and AWS work will be done here.
 
 ## Lessons Learned
 - WSL2 gives me a real Linux environment inside Windows.
+- Ubuntu is a great tool for practice 
 - Cloud engineers rely heavily on Linux, so this is step one.
 
 ## Next Steps
