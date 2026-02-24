@@ -9,6 +9,10 @@
 - Launched Ubuntu for the first time
 - Created my Linux username and password
 - Used linux commands
+- created a directioy
+- changed into a directory
+- created a file
+- viewed a file 
 
 ## Why This Matters
 This is the foundation of my cloud engineering environment.  
@@ -20,6 +24,8 @@ Linux is for infrastructure
 - `wsl --install -d Ubuntu`
 - `ls`, `pwd`, `cd`
 - `sudo apt update && sudo apt upgrade`
+- tocuch, nano, cat
+
 
 ## Lessons Learned
 - WSL2 gives me a real Linux environment inside Windows.
