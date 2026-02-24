@@ -13,6 +13,7 @@
 ## Why This Matters
 This is the foundation of my cloud engineering environment.  
 All future Linux, Docker, Terraform, and AWS work will be done here.
+Linux is for infrastructure 
 
 
 ## Commands I Used
