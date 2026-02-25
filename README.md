@@ -89,7 +89,7 @@ Linux is for infrastructure
 -  df means disk free shows how much disk space is available
 -  -h means human readble 
 ## Next Steps
--- Processes
+- Processes
 - Services
 - Logs
 - System monitoring
