@@ -72,7 +72,7 @@ Linux is for infrastructure
 
 ## Lessons Learned
 -rwxr-xr-x 
- - - is the  file type
+ -  - is the  file type
  - rw- what the owner can do
  - r-- what your group can do
  - r-- what everyone else can do
